@@ -1,2 +1,1 @@
-# dsml
-Data Science and Machine Learning Club
+#Data Science and Machine Learning Club 42
